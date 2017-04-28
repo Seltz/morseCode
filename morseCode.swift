@@ -183,7 +183,7 @@ func morseCode(text input: String) {
 }
 
 
-print("Enter Text:")
+print("Enter Text Here:")
 
 let text = readLine()
 
